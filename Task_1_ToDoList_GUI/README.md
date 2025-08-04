@@ -1,7 +1,7 @@
 # CODSOFT
 # 📝 Task 1 – To-Do List (GUI Version)
 
-This is *Task 1* of my internship under CodSoft, where I developed a **Graphical User Interface (GUI)-based To-Do List Application* using Python and Tkinter.
+This is Task 1 of my internship under CodSoft, where I developed a Graphical User Interface (GUI)-based To-Do List Application using Python and Tkinter.
 
 ---
 
