@@ -23,4 +23,4 @@ This project is a simple and interactive **Rock Paper Scissors** game built usin
 ---
 
 ## 📸 Screenshot
-![]()
+![RockPaperScissors](https://github.com/JommalaJayalakshmi/CODSOFT/blob/main/Task4_RockPaperScissors/RockPaperScissors_gui.png?raw=true)
