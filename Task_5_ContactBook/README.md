@@ -29,5 +29,5 @@ A user-friendly Contact Book application built using **Python and Tkinter**. Thi
 
 ## GUI Preview
 
-![ContactBook]()
+![ContactBook](https://github.com/JommalaJayalakshmi/CODSOFT/blob/main/Task_5_ContactBook/ContactBook_gui.png?raw=true)
 
