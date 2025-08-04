@@ -1,4 +1,4 @@
-# Task 4 - To-Do List - GUI Version using Tkinter
+# Task 1 - To-Do List - GUI Version using Tkinter
 # Internship: CodSoft - Python Programming Domain
 
 import tkinter as tk
