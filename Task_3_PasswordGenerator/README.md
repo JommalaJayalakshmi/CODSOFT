@@ -20,5 +20,5 @@ This is a GUI-based Password Generator built using Python and Tkinter. Users can
 ---
 
 ## 📸 GUI Preview:
-![PasswordGenerator]()
+![PasswordGenerator](https://github.com/JommalaJayalakshmi/CODSOFT/blob/main/Task_3_PasswordGenerator/PasswordGenerator_gui.png?raw=true)
 
