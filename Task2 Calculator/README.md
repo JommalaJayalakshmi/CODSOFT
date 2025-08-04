@@ -20,5 +20,6 @@ This is Task 2 of my internship under **CodSoft**, where I developed a **GUI-bas
 ---
 
 ## 📸 GUI Preview
-*You can upload a screenshot and link it here later*
+
+![Calculator GUI](https://github.com/JommalaJayalakshmi/CODSOFT/blob/main/Task2%20Calculator/calculator_gui.png?raw=true)
 
