@@ -1,4 +1,4 @@
-# 🧮 Task 2 – Calculator (GUI Version)
+#  Task 2 – Calculator (GUI Version)
 
 This is Task 2 of my internship under **CodSoft**, where I developed a **GUI-based Calculator** using **Python** and **Tkinter**.
 
