@@ -1,4 +1,4 @@
-# 🛡️ Task 3 - Password Generator  
+#  Task 3 - Password Generator  
 **Internship:** CodSoft - Python Programming Domain
 
 This is a GUI-based Password Generator built using Python and Tkinter. Users can generate strong random passwords based on selected complexity levels.
